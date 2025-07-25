@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "tkd-tracker-dev",
+    "slug": "track-progress-events",
+    "version": "1.2.5-App-Store-Beta-Submission",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "track-progress-events-23",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.skywalkerapps.tkdtracker"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.skywalkerapps.tkdtracker"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-web-browser",
+      "expo-video"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "owner": "csberte",
+    "extra": {
+      "eas": {
+        "projectId": "6523a84d-7f85-4558-bce0-23c56bf2d513"
+      }
+    }
+  }
+}

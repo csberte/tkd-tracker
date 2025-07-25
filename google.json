@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tkd-tracker-play-api",
+  "private_key_id": "368bab0af7f904d6ecadb8c2a8cdf6c3fac9925c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7JoyO9b3F1nAd\nF8jHmmx5j7aytGKuI9aUFL4Xaw4N0kvazkonA2DuGRFPIKG6yfGICAVP42iqel5X\njBqG1GpEb8izRrOppCmIPfB0jNb8UF2vSZ0/bxJUVl8DtFG+y9gjK6js19agCq4x\nvfstNlsl9WPl6AK7Lh+nlqlCvQSR37CFnZDB4JMvhvffiDgEhBt9c5Aa2up4v1e1\nAzU9ER+8+P+5lJDl94MwJjbkg7PUlNAqQFL1Ap71PvYVBAJafPfmUi6mqkMaGgi/\nquQNxuHhoH/6FWLvj9ApeRfyM6XIviX/PtBEL8OOnF82FDKcMQ5dFrgoYaWemmvC\ntWsBChK7AgMBAAECggEAM6JnnlvDj41h4kz5GsUKz6EsfXKSVUxS/AkbBzgEqSCP\nyB8pS0k92YM2CNhOdswXpPndiVSLQJnBZLMlcHSzmw0iWQAVOqUtxkacjHN9LyD3\nMBEF3wYEjxtDXLDH6vWvvMhjc3D7aK15sQSjA67fCAKDnN9dvYn0tta0/VJMK/iM\nBdikf/NZ76yaf3rdR2HaGKOePiDqfvicLH+umXy66L2u6oRbUONTX1bDhraDq9yC\ngNAbpq6wrzYKj6ryvfiweoS0tVhYy4z32LtLOinqZOcf3tKMUTBNAcwX3JGeQ5si\ncv+vYIRsatD6jPIyf5NtRZJI7fSSAFxelIrcdgYg9QKBgQDkZMTpTay4jnbjpw9o\nViwnDF0fcw1E+i9/JMmAkPOcGPNBnlJXTLFzmHBRiRZBbMDP3NqW/QrhfZB1OQ+B\nSl9J0h/2wkw3tUNnTZTh9zU7VThZ5741WN6RfgRdj257cP+ZBfdn4jcObOINbVaM\nZ6RXhdMUNmamusAfRMgmpPhwPwKBgQDRxZZ7M48G3abjiWbTp+2XoNqm6bikITV3\nLqvDHHgtXI7ay4mc0oqPr5RFteW29DBrkuXk39g0bOd1JcEP2USzUk/yeV3Z9IhR\nBIOp0eoJ9IZ+Jmkry1ZwXtSwhbvjGl7OPaO2nhqWvrqIoj3Ljr65DLBnLqmCXQFs\n81y2bRe+hQKBgAQehSaoDftuJlrIwpBhLX6uzGcqzgx2brDeWvwEoUApewmt71I/\nwduR3kS6MjqP2ZJmK1MZ0T5r41UZ6FuumbVdItJygqlmjYapcYv5x24AhXmpolaX\n+buqCC4fziBP02xRHTs0a0XJVPJlDHCP1fj2Iu50ZLmRGLH3rZx00T5FAoGBAKo8\nQGfRKrQ2stYazqDbudwAhRFJwTcpYBtNe8TGWNzvLVtwLEhhMGN06M491KNJvfW+\n6+R2qB27d4bBUdEL0E36cbjkN37GjM267SKmoNjdYTwE7frFdGuS+eYbUaP25ZNX\nwIFWA1vsgrKZf66vNCY2nv3Nh3CtC5ggU1AUbl2FAoGBALG02MJKfmWMIkCnth2G\nSkb4drxC4fdQWz/2Lef7Z/BgMPtn+RdI0e4PhFZPTlV1YgPPbd3Xa+zaerdCdecu\niDUvwT0cOkfWndFchxinlqm6ULna9LZVYFEKG3F5uRQur2AiTDIktJw1r8VTA1qZ\n6N2yiOjDvpDM9lsp14CPnPGg\n-----END PRIVATE KEY-----\n",
+  "client_email": "tkd-tracker-app@tkd-tracker-play-api.iam.gserviceaccount.com",
+  "client_id": "100556089393396064920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tkd-tracker-app%40tkd-tracker-play-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

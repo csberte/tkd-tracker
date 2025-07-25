@@ -1,0 +1,14 @@
+diff --git a/node_modules/expo-file-system/ios/FileSystemModule.swift b/node_modules/expo-file-system/ios/FileSystemModule.swift
+index 1234567..abcdefg 100644
+--- a/node_modules/expo-file-system/ios/FileSystemModule.swift
++++ b/node_modules/expo-file-system/ios/FileSystemModule.swift
+@@ -81,7 +81,8 @@ public class FileSystemModule: Module {
+     }
+   }
+ 
+-  let sessionHandler = EXSessionTaskDispatcher(sessionHandler: ExpoAppDelegate.getSubscriberOfType(EXSessionHandler.self))
++  // Temporarily commented out due to ExpoAppDelegate compatibility issue with Expo SDK 50+
++  // let sessionHandler = EXSessionTaskDispatcher(sessionHandler: ExpoAppDelegate.getSubscriberOfType(EXSessionHandler.self))
+ 
+   @AsyncFunction
+   private func downloadAsync(
