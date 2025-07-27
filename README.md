@@ -1,3 +1,4 @@
+
 # TKD Tournament Tracker
 
 A React Native app built with Expo for tracking Taekwondo tournament competitors, events, and scoring.
@@ -108,3 +109,5 @@ eas build --profile production
 - TypeScript
 
 For detailed build instructions, see [BUILD_INSTRUCTIONS.md](./BUILD_INSTRUCTIONS.md).
+
+
